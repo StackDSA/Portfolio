@@ -1,2 +1,2 @@
 # Portfolio
-Ishan Deshpande's Portfolio website for learning
+Ishan Deshpande's Portfolio website for learning GitHub.
